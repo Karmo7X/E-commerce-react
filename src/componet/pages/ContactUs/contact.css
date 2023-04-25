@@ -1,0 +1,22 @@
+.contactus
+{
+    border-radius: 10px;
+    background-color: #ffffff;
+    gap: 15;
+}
+
+.contactus >div
+{
+    width: 48%;
+}
+
+
+.contactus .form-control
+{
+  background-color: #d8d6d6;
+  border-radius: 10px;
+  border-color: transparent;
+  padding: 10px;
+}
+
+

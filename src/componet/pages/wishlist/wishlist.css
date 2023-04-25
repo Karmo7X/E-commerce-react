@@ -1,0 +1,23 @@
+.wishlist
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    
+}
+
+
+
+.wishlist-image img
+{
+    width: 50%;
+}
+
+
+ .wishlist-card .cross
+{
+   top: 5px;
+   right: 15px;
+   width: 30px;
+   padding: 3px;
+   cursor: pointer;
+} 

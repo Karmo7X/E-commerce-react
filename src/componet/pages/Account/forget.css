@@ -1,0 +1,29 @@
+.forget-card
+{
+    background: #FFFF;
+    border-radius: 10px;
+    width: 60%;
+    margin: 30px auto;
+    padding: 20px;
+    
+}
+
+
+
+.form-control
+{
+    height: 50px;
+    background-color: #f5f5f7;
+    color: #131921;
+}   
+
+
+
+.btn-outline-primary
+{
+    
+    background: #051724;
+     color: #ffffff;
+    
+}
+

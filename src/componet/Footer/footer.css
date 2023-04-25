@@ -1,0 +1,39 @@
+:root
+{
+    --footer-color:#232d3e;
+    --text-color:#febd69;
+}
+
+
+
+footer
+{
+    background-color: var(--footer-color);
+}
+
+
+.head
+{
+    color: var(--text-color);
+}
+
+
+
+footer:not(:first-child)
+{
+    border-top: 1px solid #ffff;
+}
+
+.btn-outline-primary
+{
+    
+    background-color: #051f31;
+    color: var(--text-color);
+}
+
+.btn-outline-primary:hover
+{
+    
+    background-color: #051724;
+}
+

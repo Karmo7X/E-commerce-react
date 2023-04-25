@@ -1,0 +1,61 @@
+.filter-card
+{
+    background-color:  rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px 15px;
+    width: 100%;
+    
+}
+.list li,
+.filter-card .form-check-label
+
+{
+    list-style-type: none;
+    font-size: 13px;
+    line-height: 30px;
+    cursor: pointer;
+    color: #747474;
+}
+
+.list li:hover,
+.filter-card .form-check-label:hover
+{
+    color: #1c1c1b;
+}
+
+.filter-title
+{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #1c1c1b;
+}
+
+.sub-title
+{
+    font-size: 14px;
+    font-weight: 600;
+    color: #1c1c1b;
+}
+
+.image img
+{
+    width: 50%;
+}
+
+.random-product img
+{
+    width: 50%;
+}
+
+.filter-sort-grid
+{
+    background-color: #e6e6e6;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.sort-width
+{
+    width: 20%;
+}

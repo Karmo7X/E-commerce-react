@@ -1,0 +1,46 @@
+
+.Blogs
+{
+  background-color: rgb(240, 240, 240);
+}
+.Blog-card
+{
+    
+    
+    padding: 15px;
+    width: 100%;
+    
+
+    
+}
+
+.box
+{
+   
+   padding: 20px;
+   border-radius: 10px;
+}
+
+
+.single-blog a
+{
+   list-style: none;
+   color: #777777;
+}
+
+
+
+.Contact
+{
+    border-radius: 10px;
+    background-color: #ffffff;
+    gap: 15;
+    padding: 20px;
+}
+
+.single-blog img
+{
+  border-radius: 10px;
+  width: 100%;
+
+}

@@ -1,0 +1,51 @@
+.arrivals
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    overflow: hidden;
+    background-size: 2000px;
+
+}
+
+
+.arrivals:hover .action-bar
+{
+ right: 40px;
+}
+
+.image img
+{
+    width: 80%;
+}
+
+.arrival .content p{
+  color: red;
+}
+
+.wishlist-icon
+{
+    top: 8%;
+    right: 41px;
+}
+.action-bar
+{
+    top: 15%;
+    right: -30px;
+    transition: 0.3s;
+}
+
+
+ @media screen and (max-width: 576px) {
+  .swiper-container {
+    width: 576px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .swiper-container {
+    width: 768px;
+  }
+  
+} 
+
+    
